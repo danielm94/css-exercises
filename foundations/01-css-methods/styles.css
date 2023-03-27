@@ -1,0 +1,15 @@
+/* div: a red background, white text, a font size of 32px, center aligned, and bold */
+
+.external-method {
+    background-color: red;
+    color: white;
+    font-size: 32px;
+}
+
+.bold-text {
+    font-weight: 700;
+}
+
+.centered-text {
+    text-align: center;
+}
